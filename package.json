@@ -9,10 +9,9 @@
   },
   "author": "AJIT BHAIK",
   "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  },
+  "devDependencies": {},
   "dependencies": {
+    "nodemon": "^2.0.4",
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
   },
